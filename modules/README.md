@@ -198,4 +198,3 @@ proxychains curl http://example.com
 
 - Use `Burp match & replace` to change headers dynamically
 - Always check for SSL/TLS warnings / cert issues
-- Use session logging: `script session.log` or `lykos --log`
